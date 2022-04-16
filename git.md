@@ -6,7 +6,7 @@
 - `push` - upload git commits to a remote repo like github
 - `pull` - download changes from remote repo to local machine
 - **Pull request -** when you want your code to be reviewed, you’ll pull your code changes from feature branch to master branch and then merge to master
-
+- `HEAD` - pointer to last commit
 
 ## Starting a new repo
 
