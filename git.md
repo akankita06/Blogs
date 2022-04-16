@@ -21,7 +21,7 @@
 
 
 ## Git workflows & commands
-
+<img src="https://github.com/akankita06/notes/blob/8d8d7c1a573efe4039834d3e0c26d56d48987f36/images/git%20workflows.png" width=50% height=50%>
 - `git status` - shows all files updated or modified but haven’t been committed
 - `git add` - tell git to track a file, to save new snapshot of contents of modified file for the next commit
     - `git add -A` - stage all changes = `git add .` ; `git add -u`
@@ -55,6 +55,8 @@
     - master - main branch
     - feature branch - other branches you create
     - changes on feature branch cannot be seen on master and vice-versa (unless merged)
+
+    <img src="https://github.com/akankita06/notes/blob/8d8d7c1a573efe4039834d3e0c26d56d48987f36/images/git%20branching.png" width=50% height=50%>
   
 - **creating new branch & swithcing between branches (`git branch` and `git checkout`)**
     - `git branch` - list of branches in your local repo
