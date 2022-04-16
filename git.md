@@ -1,5 +1,6 @@
 ## Git common comands & terms
 
+- git - free and open source version control system
 - `clone` - bring repo hosted somewhere like github into a folder on local machine
 - `add` - track your files and changes in git
 - `commit` - save your files in git
